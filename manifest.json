@@ -1,6 +1,6 @@
 {
   "background_color": "#ffffff",
-  "description": "Giant 2048 By Gem Studio",
+  "description": "Giant 2048 By Logic Loom Creations",
   "dir": "ltr",
   "display": "standalone",
   "name": "Giant 2048",
@@ -50,7 +50,7 @@
     {
       "name": "Giant 2048",
       "url": "",
-      "description": ""
+      "description": "Logic Loom Creations"
     }
   ]
 }
